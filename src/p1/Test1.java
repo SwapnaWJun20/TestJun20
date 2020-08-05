@@ -1,3 +1,8 @@
-Unstaged changes after reset:
-D	src/p1/Test.java
-M	src/p1/Test1.java
+package p1;
+
+public class Test1 {
+
+	private void method() {
+		System.out.println("IN Test1 - Method");
+	}
+}
